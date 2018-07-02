@@ -1,4 +1,4 @@
-# Micro Serviços com Spring Boot com Docker e MongoDB
+# Micro Serviços com Spring Boot, Docker e MongoDB
 
 Aqui é mostrado um serviço simples utilizando as tecnologias e frameworks citados acima.
 
