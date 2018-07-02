@@ -1,0 +1,40 @@
+[{
+   _id: ObjectId("507f1f77bcf86cd799439011")
+   name: "Maria Moura", 
+   document_id": 12345,
+   phone_number: "(99) 9999-9999",
+   email: "root@localhost",
+   client_id: "a72cb48e-7a07-11e8-adc0-fa7ae01bbebc",
+   client_type: [VIP],
+   products: [
+       {
+        "_id": ObjectId("507f1f77bcf86cd799439012"),
+        "name": "Atendente Virtual",
+        "list_price": 2.99,
+        "sku": 555555555,
+        "product_id": "123abc"
+      }
+      {
+       _id: ObjectId("507f1f77bcf86cd799439012"),
+       name: "Atendente Humanizado",
+       list_price: 2.99,
+       sku: 555555555,
+       product_id: "123abc"
+     }
+   ]
+   addresses: [	
+      {
+        street: "1 Some Other Street",
+        city: "Boston",
+        state: "MA",
+        zip: "12345" 
+      },
+      {
+        street: "1 Some Other Street",
+        city: "Boston",
+        state: "MA",
+        zip: "12345"
+      }
+   ]
+   created_on: ISODate("2014-01-01T10:01:22Z")
+}]
