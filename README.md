@@ -38,8 +38,9 @@ docker-compose up
 
 
 ## Acessando a documentação da API (Swagger)
-
-- [http://localhost:8080/swagger-ui.htm](http://localhost:8080/swagger-ui.htm)
+- Ou o Json do Swagger [aqui](swagger-doc.json)
+- Direto na aplicação em execução:
+  [http://localhost:8080/swagger-ui.htm](http://localhost:8080/swagger-ui.htm)
 
 
 ---
