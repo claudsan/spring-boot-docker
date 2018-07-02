@@ -28,15 +28,6 @@ CONTAINER ID        IMAGE                   COMMAND                  CREATED    
 31d0c481431c        claudsan/claudsan-app   "java -jar /claudsan…"   6 minutes ago       Up 6 minutes                  0.0.0.0:8080->8080/tcp                               flamboyant_lamport
 ````
 
-## Executando com Docker Compose
-
-
-```
-docker-compose up
-```
-
-
-
 ## Acessando a documentação da API (Swagger)
 - Ou o Json do Swagger [aqui](swagger-doc.json)
 - Direto na aplicação em execução:
