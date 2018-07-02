@@ -31,7 +31,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
                 .description("Spring Boot com REST API <br/><strong>Chamado: 2254991</strong>")
                 .version("1.0.0")
                 .license("Apache License Version 2.0")
-                .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
+                .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
                 .build();
 	}
 
