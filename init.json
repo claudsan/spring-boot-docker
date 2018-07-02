@@ -1,40 +1,29 @@
-[{
-   _id: ObjectId("507f1f77bcf86cd799439011")
-   name: "Maria Moura", 
-   document_id": 12345,
-   phone_number: "(99) 9999-9999",
-   email: "root@localhost",
-   client_id: "a72cb48e-7a07-11e8-adc0-fa7ae01bbebc",
-   client_type: [VIP],
-   products: [
-       {
-        "_id": ObjectId("507f1f77bcf86cd799439012"),
-        "name": "Atendente Virtual",
-        "list_price": 2.99,
-        "sku": 555555555,
-        "product_id": "123abc"
+[
+{  
+   "client_id":"111",
+   "name":"claudsan",
+   "document_id":NumberLong("31885381124"),
+   "phone_number":"111 31885381124",
+   "email":"claudsan_111@email.com.br",
+   "client_type":[  
+
+   ],
+   "products":[  
+      {  
+         "product_id":"123abc",
+         "name":"Atendente Humanizado",
+         "list_price":2.990000009536743,
+         "sku":555555555
       }
-      {
-       _id: ObjectId("507f1f77bcf86cd799439012"),
-       name: "Atendente Humanizado",
-       list_price: 2.99,
-       sku: 555555555,
-       product_id: "123abc"
-     }
-   ]
-   addresses: [	
-      {
-        street: "1 Some Other Street",
-        city: "Boston",
-        state: "MA",
-        zip: "12345" 
-      },
-      {
-        street: "1 Some Other Street",
-        city: "Boston",
-        state: "MA",
-        zip: "12345"
+   ],
+   "addresses":[  
+      {  
+         "street":"RUA X, 111",
+         "city":"Uberlândia",
+         "state":"MG",
+         "zip":"38400000"
       }
-   ]
-   created_on: ISODate("2014-01-01T10:01:22Z")
-}]
+   ],
+   "created_on":   ISODate("2018-07-02T02:24:53.987Z")
+}
+]
