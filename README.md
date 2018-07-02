@@ -3,8 +3,8 @@
 Aqui é mostrado um serviço simples utilizando as tecnologias e frameworks citados acima.
 
 ## Pré Requisitos
-- Maven 3
-- Java 8
+- Maven
+- Java
 - Docker
 - MongoDB
 
