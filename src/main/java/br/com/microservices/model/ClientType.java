@@ -1,4 +1,4 @@
-package br.com.microservices.object;
+package br.com.microservices.model;
 
 import java.io.Serializable;
 

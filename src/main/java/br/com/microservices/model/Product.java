@@ -1,4 +1,4 @@
-package br.com.microservices.object;
+package br.com.microservices.model;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -27,6 +27,5 @@ public class Product {
 	public String get_id() {
 		return _id.toHexString();
 	}
-	
 
 }
